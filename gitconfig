@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = reon.kasuya@gmail.com
-	name = reonakasuya
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = reona kasuya
